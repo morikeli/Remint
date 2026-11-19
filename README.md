@@ -197,7 +197,7 @@ cd Remint
 Build the application for your current operating system:
 
 ```bash
-go build -o bin/remint-<your-platform> . # e.g. bin/remint-linux or bin/remint-windows-amd64.exe 
+go build -o bin/remint-<your-platform> .     # e.g. bin/remint-linux or bin/remint-windows-amd64.exe 
 ```
 
 Run the application:
