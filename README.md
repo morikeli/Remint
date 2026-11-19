@@ -161,7 +161,7 @@ remint/
 
 Original videos are preserved.
 
-> [!NOTE]
+> [!WARNING]
 > Existing output files with matching names will be overwritten during conversion.
 
 ---
