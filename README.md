@@ -1,9 +1,5 @@
 # Remint
 
-**A lightweight, cross-platform video transcoding utility powered by Go and FFmpeg.**
-
-Convert your videos to H.264 (AVC) with AAC audio for improved playback compatibility across devices and media players.
-
 ---
 
 ## Overview
