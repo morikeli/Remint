@@ -2,7 +2,7 @@
 
 set -e
 
-APP_NAME="video-converter"
+APP_NAME="videc"
 SOURCE="main.go"
 
 echo "Building executables..."
